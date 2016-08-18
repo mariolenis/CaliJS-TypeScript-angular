@@ -54,7 +54,7 @@ interface IUsuario
 {
     usuario: string;
     contrasena: string;
-    rol?: boolean; // Propiedad opcional deterninada por "?"
+    rol?: boolean; // Propiedad opcional determinada por "?"
 }
 
 /**
